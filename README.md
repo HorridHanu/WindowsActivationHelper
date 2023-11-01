@@ -10,7 +10,7 @@ WindowsActivationHelper is a legitimate and open-source utility designed to assi
 #### Install a product key
 If you're converting a computer from a KMS host, MAK, or retail edition of Windows to a KMS client, install the applicable product key (GVLK) from the list below. To install a client product key, open an administrative command prompt on the client, and run the following command and then press Enter:
 
-```http
+```bash
   slmgr /ipk <product key>
 ```
 
