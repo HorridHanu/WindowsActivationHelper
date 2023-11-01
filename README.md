@@ -5,8 +5,8 @@ WindowsActivationHelper is a legitimate and open-source utility designed to assi
 ## Authors
 
 - [@Hanu](https://www.github.com/horridhanu)
-![Logo](![readme logo](https://github.com/HorridHanu/WindowsActivationHelper/assets/86579429/ea60e0af-6626-493b-9d83-590205d00adc)
-)
+![readme logo](https://github.com/HorridHanu/WindowsActivationHelper/assets/86579429/ea60e0af-6626-493b-9d83-590205d00adc)
+
 
 
 
