@@ -3,7 +3,7 @@ WindowsActivationHelper is a legitimate and open-source utility designed to assi
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
@@ -28,7 +28,7 @@ For example, to install the product key for Windows Server 2022 Datacenter editi
 ```
 
 # Generic Volume License Keys (GVLK)
-#### In the tables that follow, you'll find the GVLKs for each version and edition of Windows. LTSC is Long-Term Servicing Channel, while LTSB is Long-Term Servicing Branch.
+In the tables that follow, you'll find the GVLKs for each version and edition of Windows. LTSC is Long-Term Servicing Channel, while LTSB is Long-Term Servicing Branch.
 
 # Windows Server (LTSC versions)
 
