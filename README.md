@@ -49,14 +49,6 @@ In the tables that follow, you'll find the GVLKs for each version and edition of
 | `Windows Server 2019 Standard` | `N69G4-B89J2-4G8F4-WWYCC-J464C` |
 | `Windows Server 2019 Essentials` | `WVDHN-86M7X-466P6-VHXV7-YY726` |
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
 
 ## Authors
 
