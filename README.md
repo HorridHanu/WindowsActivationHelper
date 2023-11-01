@@ -16,14 +16,14 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 #### Install a product key
 If you're converting a computer from a KMS host, MAK, or retail edition of Windows to a KMS client, install the applicable product key (GVLK) from the list below. To install a client product key, open an administrative command prompt on the client, and run the following command and then press Enter:
 
-```http
+```bash
   slmgr /ipk <product key>
 ```
 
 For example, to install the product key for Windows Server 2022 Datacenter edition, run the following command and then press Enter:
 
 
-```http
+```bash
   slmgr /ipk WX4NM-KYWYW-QJJR4-XV3QB-6VM33
 ```
 
