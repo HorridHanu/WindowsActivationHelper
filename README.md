@@ -25,12 +25,6 @@ To run tests, run the following command
   slmgr /ipk WX4NM-KYWYW-QJJR4-XV3QB-6VM33
 ```
 
-
-
-```http
-  slmgr /ipk WX4NM-KYWYW-QJJR4-XV3QB-6VM33
-```
-
 # Windows Server (LTSC versions)
 
 |Operating system edition | KMS Client Product Key
