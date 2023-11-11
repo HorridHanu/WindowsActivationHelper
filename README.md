@@ -49,6 +49,25 @@ In the tables that follow, you'll find the GVLKs for each version and edition of
 | `Windows Server 2019 Standard` | `N69G4-B89J2-4G8F4-WWYCC-J464C` |
 | `Windows Server 2019 Essentials` | `WVDHN-86M7X-466P6-VHXV7-YY726` |
 
+## Windows Server 2016
+
+|Operating system edition | KMS Client Product Key
+| :-------- | :------- |
+| `Windows Server 2016 Datacenter` | `CB7KF-BWN84-R7R2Y-793K2-8XDDG` |
+| `Windows Server 2016 Standard` | `WC2BQ-8NRM3-FDDYY-2BFGV-KHKQ` |
+| `Windows Server 2016 Essentials` | `JCKRF-N37P4-C2D82-9YXRT-4M63B` |
+
+
+# Windows Server (Semi-Annual Channel versions)
+## Windows Server, versions 20H2, 2004, 1909, 1903, and 1809
+
+|Operating system edition | KMS Client Product Key
+| :-------- | :------- |
+| `Windows Server Datacenter` | `6NMRW-2C8FM-D24W7-TQWMY-CWH2D` |
+| `Windows Server 2016 Standard` | `N2KJX-J94YW-TQVFB-DG9YT-724CC` |
+
+
+
 ## Author
 ![banner](https://github.com/HorridHanu/WindowsActivationHelper/assets/86579429/7030b0a6-2587-449c-9582-b18844c389dd)
 
