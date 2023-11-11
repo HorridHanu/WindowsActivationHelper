@@ -66,6 +66,13 @@ In the tables that follow, you'll find the GVLKs for each version and edition of
 | `Windows Server Datacenter` | `6NMRW-2C8FM-D24W7-TQWMY-CWH2D` |
 | `Windows Server 2016 Standard` | `N2KJX-J94YW-TQVFB-DG9YT-724CC` |
 
+## Windows 11 and Windows 10 (Semi-Annual Channel versions)
+
+|Operating system edition | KMS Client Product Key
+| :-------- | :------- |
+| `Windows 11 Pro ` &nbsp;  `Windows 10 Pro` | `W269N-WFGWX-YVC9B-4J6C9-T83GX` |
+| `Windows 11 Pro N` &nbsp; `Windows 10 Pro N` | `MH37W-N47XK-V7XM9-C7227-GCQG9` |
+| `Windows 11 Pro for Workstations`&nbsp;`Windows 10 Pro for Workstations` | `NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J` |
 
 
 ## Author
