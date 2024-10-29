@@ -71,9 +71,3 @@ In the tables that follow, you'll find the GVLKs for each version and edition of
 | `Windows 11 Pro ` &nbsp;  `Windows 10 Pro` | `W269N-WFGWX-YVC9B-4J6C9-T83GX` |
 | `Windows 11 Pro N` &nbsp; `Windows 10 Pro N` | `MH37W-N47XK-V7XM9-C7227-GCQG9` |
 | `Windows 11 Pro for Workstations`&nbsp;`Windows 10 Pro for Workstations` | `NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J` |
-
-
-## Author
-![banner](https://github.com/HorridHanu/WindowsActivationHelper/assets/86579429/7030b0a6-2587-449c-9582-b18844c389dd)
-
-
